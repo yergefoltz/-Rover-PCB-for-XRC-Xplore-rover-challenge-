@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d0ee1d89-d835-42d7-a756-cc252ef1199e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 71.12 95.25)
+		(size 38.1 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24d91196-f4f7-4ee8-9f50-2cf0105111e6")
+		(property "Sheetname" "Mounting_holes"
+			(at 71.12 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mounting_holes.kicad_sch"
+			(at 71.12 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CLANKERS ROVER V1"
+				(path "/d0ee1d89-d835-42d7-a756-cc252ef1199e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 54.61)
+		(size 27.94 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "98789043-de35-4499-b05f-f50adb847efd")
+		(property "Sheetname" "Slave 1 + Slave 2"
+			(at 19.05 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Slave1+2.kicad_sch"
+			(at 19.05 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CLANKERS ROVER V1"
+				(path "/d0ee1d89-d835-42d7-a756-cc252ef1199e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 93.98)
+		(size 38.1 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a799850a-381a-4845-b6b1-ef6e06b14920")
+		(property "Sheetname" "POWER PLUG"
+			(at 17.78 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER PLUG.kicad_sch"
+			(at 17.78 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CLANKERS ROVER V1"
+				(path "/d0ee1d89-d835-42d7-a756-cc252ef1199e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 21.59)
+		(size 27.94 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aee49c03-5c38-42c9-8e47-cc3c13d639e9")
+		(property "Sheetname" "raspbery PI + Arduino Uno (Master)"
+			(at 19.05 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "raspberry PI + Arduino Uno (Master).kicad_sch"
+			(at 19.05 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CLANKERS ROVER V1"
+				(path "/d0ee1d89-d835-42d7-a756-cc252ef1199e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 53.34)
+		(size 30.48 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b6cee81b-1324-43d7-a910-271557e486fd")
+		(property "Sheetname" "Slave 4"
+			(at 101.6 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Slave 4.kicad_sch"
+			(at 101.6 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CLANKERS ROVER V1"
+				(path "/d0ee1d89-d835-42d7-a756-cc252ef1199e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 54.61)
+		(size 30.48 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f4ea4cf9-65d5-4acc-91a1-28683f3528b6")
+		(property "Sheetname" "Slave 3"
+			(at 63.5 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Slave 3.kicad_sch"
+			(at 63.5 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CLANKERS ROVER V1"
+				(path "/d0ee1d89-d835-42d7-a756-cc252ef1199e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
