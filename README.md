@@ -1,5 +1,5 @@
 # -Rover-PCB-for-XRC-Xplore-rover-challenge-
-My first PCB made for rover challenge at my university was designed to connect all electronics for out rover.
+My first PCB made for rover challenge at my university was designed to connect all electronics in our small rover.
 
 1.	Main Purpose:
 I decided to design our PCB solely for connections and routing logic signals between our components. The power supply lines for the servo and DC motors will not run through the board in order to avoid significant electrical noise that could interfere with the operation of the logic components.
